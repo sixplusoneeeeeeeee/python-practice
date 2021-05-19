@@ -8,3 +8,5 @@
  if判斷式，dict練習，EX:input:春天,output:spring
 # 註冊系統練習
  while if elif else運用
+# 爬蟲練習
+ 透過爬蟲抓取台北市天氣資料、書籍網站資料，運用pandas將資料繪製成淺顯易懂的表格
